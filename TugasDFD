@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T13:53:44.147Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="G8HmgT4TQEx9AmI3DAqP" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T15:06:42.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="n7BoJKTHctqG-pKga4Gl" version="13.7.9" type="github">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Page-1">
-    <mxGraphModel dx="2333" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="-20" y="50" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ALLcLxbFDkn6XXOgyCTm-7" value="Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="200" width="190" height="130" as="geometry" />
+          <mxGeometry x="680" y="210" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ALLcLxbFDkn6XXOgyCTm-8" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -29,14 +29,11 @@
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="292" as="sourcePoint" />
-            <mxPoint x="660" y="292" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="540" y="292" />
-            </Array>
+            <mxPoint x="540" y="520" as="sourcePoint" />
+            <mxPoint x="710" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4X2_cdSY2jaj4seblyvM-5" value="Menerima Bukti Transaksi&lt;br&gt;dan pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-3">
+        <mxCell id="4X2_cdSY2jaj4seblyvM-5" value="Memberi Bukti Transaksi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-3">
           <mxGeometry x="-0.0827" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -67,12 +64,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-12" value="Dapur" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="235" width="120" height="60" as="geometry" />
+          <mxGeometry x="-30" y="235" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-13" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="300" y="250" as="sourcePoint" />
-            <mxPoint x="120" y="250" as="targetPoint" />
+            <mxPoint x="100" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-14" value="Memproses Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-13">
@@ -82,13 +79,13 @@
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-15" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="275" as="sourcePoint" />
+            <mxPoint x="100" y="275" as="sourcePoint" />
             <mxPoint x="300" y="275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4X2_cdSY2jaj4seblyvM-16" value="Memberikan Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-15">
+        <mxCell id="4X2_cdSY2jaj4seblyvM-16" value="Memberikan Status Pesanan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-15">
           <mxGeometry x="-0.1907" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19.17" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-17" value="Kasir" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -96,7 +93,7 @@
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-20" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="320" y="350" as="sourcePoint" />
+            <mxPoint x="340" y="340" as="sourcePoint" />
             <mxPoint x="270" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -108,7 +105,7 @@
         <mxCell id="4X2_cdSY2jaj4seblyvM-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="480" as="sourcePoint" />
-            <mxPoint x="410" y="350" as="targetPoint" />
+            <mxPoint x="430" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4X2_cdSY2jaj4seblyvM-23" value="Memberi Laporan Harian" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-22">
@@ -116,8 +113,36 @@
             <mxPoint x="22.67" y="18.63" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4X2_cdSY2jaj4seblyvM-24" value="DFD level 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4X2_cdSY2jaj4seblyvM-24" value="DFD level 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="30" y="600" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-36" value="Konsumen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-37" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="680" as="sourcePoint" />
+            <mxPoint x="480" y="680.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-38" value="Memesan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-37">
+          <mxGeometry x="-0.4057" relative="1" as="geometry">
+            <mxPoint x="-28" y="0.35" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-39" value="Antar muka&lt;br&gt;Pemesanan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-40" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="650" as="sourcePoint" />
+            <mxPoint x="620" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4X2_cdSY2jaj4seblyvM-41" value="Menampilkan Menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4X2_cdSY2jaj4seblyvM-40">
+          <mxGeometry x="-0.4657" y="-5" relative="1" as="geometry">
+            <mxPoint x="33" y="-5" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
