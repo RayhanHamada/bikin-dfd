@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-20T16:20:23.361Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="NtajeEMQYteIIrrG6xhB" version="13.8.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-20T17:01:26.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="8F7deSaZKUh0pMRHXZCL" version="13.8.1" type="github" pages="4">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -514,16 +514,14 @@
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="nbdZL2KJE_7tK4FALWml-1" source="Ns4NRxmMpkNtkoRWU7p8-19" target="Ns4NRxmMpkNtkoRWU7p8-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="130" y="600" />
-              <mxPoint x="340" y="600" />
-              <mxPoint x="340" y="620" />
-              <mxPoint x="382" y="620" />
+              <mxPoint x="130" y="630" />
+              <mxPoint x="382" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-24" value="- Data Calon Anggota" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-23">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-24" value="- Nama&lt;br&gt;- Alamat&lt;br&gt;- TTL&lt;br&gt;-&amp;nbsp; Telepon" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-23">
           <mxGeometry x="-0.0473" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-2.65" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nbdZL2KJE_7tK4FALWml-1" source="Ns4NRxmMpkNtkoRWU7p8-19" target="Ns4NRxmMpkNtkoRWU7p8-28">
@@ -533,9 +531,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-61" value="- Data Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-60">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-61" value="- No. Anggota&lt;br&gt;- Nominal Transaksi" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-60">
           <mxGeometry x="-0.2648" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-39" y="-4.12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-19" value="Anggota" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="nbdZL2KJE_7tK4FALWml-1">
@@ -558,7 +556,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-49" value="- Data Anggota" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-48">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-49" value="&lt;div style=&quot;text-align: left&quot;&gt;- Nama&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- TTL&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- No. Anggota&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- Telepon&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;- Status Anggota&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-48">
           <mxGeometry x="0.2706" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -593,7 +591,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-32" value="- Buku Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-31">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-32" value="- Bukti Transaksi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-31">
           <mxGeometry x="-0.5553" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -601,7 +599,7 @@
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="nbdZL2KJE_7tK4FALWml-1" source="Ns4NRxmMpkNtkoRWU7p8-28" target="Ns4NRxmMpkNtkoRWU7p8-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-34" value="Laporan Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-33">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-34" value="- Laporan Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ns4NRxmMpkNtkoRWU7p8-33">
           <mxGeometry x="-0.2697" y="28" relative="1" as="geometry">
             <mxPoint x="33" y="-36" as="offset" />
           </mxGeometry>
