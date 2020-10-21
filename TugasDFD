@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-21T14:57:52.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="ZEWJXz3V1vfHduJB-nNh" version="13.8.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-21T16:15:43.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.116 Safari/537.36" etag="1gsopiFxvPetx1MAs8gG" version="13.8.1" type="github" pages="4">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -519,9 +519,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-24" value="- Nama&lt;br&gt;- Alamat&lt;br&gt;- TTL&lt;br&gt;-&amp;nbsp; Telepon" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-23" vertex="1" connectable="0">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-24" value="- Nama&lt;br&gt;- Alamat&lt;br&gt;- TTL&lt;br&gt;-&amp;nbsp; Telepon&lt;br&gt;- nominal setoran awal" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-23" vertex="1" connectable="0">
           <mxGeometry x="-0.0473" y="1" relative="1" as="geometry">
-            <mxPoint x="-2.65" y="11" as="offset" />
+            <mxPoint x="-29.41" y="11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="nbdZL2KJE_7tK4FALWml-1" source="Ns4NRxmMpkNtkoRWU7p8-19" target="Ns4NRxmMpkNtkoRWU7p8-28" edge="1">
@@ -610,7 +610,7 @@
         <mxCell id="Ns4NRxmMpkNtkoRWU7p8-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.021;entryY=0.555;entryDx=0;entryDy=0;entryPerimeter=0;" parent="nbdZL2KJE_7tK4FALWml-1" source="Ns4NRxmMpkNtkoRWU7p8-35" target="Ns4NRxmMpkNtkoRWU7p8-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-42" value="- Data Simpan Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-41" vertex="1" connectable="0">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-42" value="- Data Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-41" vertex="1" connectable="0">
           <mxGeometry x="-0.2141" y="2" relative="1" as="geometry">
             <mxPoint x="-14.379999999999999" y="-1.95" as="offset" />
           </mxGeometry>
@@ -639,7 +639,7 @@
             <mxPoint x="70" y="1030" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-45" value="- Laporan Data Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-44" vertex="1" connectable="0">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-45" value="- Data Simpan/Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-44" vertex="1" connectable="0">
           <mxGeometry x="-0.2792" relative="1" as="geometry">
             <mxPoint x="-93.21" y="20" as="offset" />
           </mxGeometry>
@@ -678,7 +678,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-52" value="- Catatan Simpan Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-51" vertex="1" connectable="0">
+        <mxCell id="Ns4NRxmMpkNtkoRWU7p8-52" value="- Bukti Simpan Pinjam" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ns4NRxmMpkNtkoRWU7p8-51" vertex="1" connectable="0">
           <mxGeometry x="-0.2326" relative="1" as="geometry">
             <mxPoint x="0.59" y="22.94" as="offset" />
           </mxGeometry>
