@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T18:17:06.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="vUyN_3xxzizjOqSR8JJo" version="13.8.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-10-23T18:23:29.855Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="jO159ELD4MGsjXQ7xXq5" version="13.8.1" type="github" pages="7">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1081,7 +1081,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7akrmtbr_jujxZCncL6t" name="Page-7">
-    <mxGraphModel dx="1278" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="1680" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-0" />
         <mxCell id="toRRWf59Ljl-5eJd4mF4-1" parent="toRRWf59Ljl-5eJd4mF4-0" />
@@ -1107,7 +1107,7 @@
         <mxCell id="toRRWf59Ljl-5eJd4mF4-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" source="toRRWf59Ljl-5eJd4mF4-9" target="toRRWf59Ljl-5eJd4mF4-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toRRWf59Ljl-5eJd4mF4-8" value="Formulir Pendaftaran" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRRWf59Ljl-5eJd4mF4-7">
+        <mxCell id="toRRWf59Ljl-5eJd4mF4-8" value="- Formulir Pendaftaran" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRRWf59Ljl-5eJd4mF4-7">
           <mxGeometry x="0.284" y="-1" relative="1" as="geometry">
             <mxPoint x="-85.99999999999999" y="-1" as="offset" />
           </mxGeometry>
@@ -1118,9 +1118,9 @@
         <mxCell id="toRRWf59Ljl-5eJd4mF4-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" source="toRRWf59Ljl-5eJd4mF4-12" target="toRRWf59Ljl-5eJd4mF4-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="toRRWf59Ljl-5eJd4mF4-11" value="Data Keanggotaan" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRRWf59Ljl-5eJd4mF4-10">
+        <mxCell id="toRRWf59Ljl-5eJd4mF4-11" value="- Data pada Formulir Pendaftaran&lt;br&gt;- Status Anggota" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRRWf59Ljl-5eJd4mF4-10">
           <mxGeometry x="0.2589" y="-1" relative="1" as="geometry">
-            <mxPoint x="-66" y="-1" as="offset" />
+            <mxPoint x="-121" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-12" value="Pengurus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="toRRWf59Ljl-5eJd4mF4-1">
@@ -1128,7 +1128,7 @@
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" target="toRRWf59Ljl-5eJd4mF4-25">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="755" y="-10" as="sourcePoint" />
+            <mxPoint x="813.28" y="-11" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-14" value="- Data Keanggotaan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="toRRWf59Ljl-5eJd4mF4-13">
@@ -1145,7 +1145,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-17" value="1.2&lt;br&gt;Penginputan&lt;br&gt;Data Calon Anggota" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="toRRWf59Ljl-5eJd4mF4-1">
-          <mxGeometry x="705" y="-80" width="100" height="100" as="geometry" />
+          <mxGeometry x="763.28" y="-81" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" source="toRRWf59Ljl-5eJd4mF4-24" target="toRRWf59Ljl-5eJd4mF4-28">
           <mxGeometry relative="1" as="geometry" />
@@ -1159,7 +1159,7 @@
           <mxGeometry x="380" y="255" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-25" value="Anggota Tabungan Bersama" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="toRRWf59Ljl-5eJd4mF4-1">
-          <mxGeometry x="695" y="112.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="753.28" y="111.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" source="toRRWf59Ljl-5eJd4mF4-28" target="toRRWf59Ljl-5eJd4mF4-25">
           <mxGeometry relative="1" as="geometry" />
@@ -1170,7 +1170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-28" value="1.5&lt;br&gt;Penginputan Nominal Simpanan Pokok" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="toRRWf59Ljl-5eJd4mF4-1">
-          <mxGeometry x="705" y="235" width="100" height="100" as="geometry" />
+          <mxGeometry x="763.28" y="234" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="toRRWf59Ljl-5eJd4mF4-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="toRRWf59Ljl-5eJd4mF4-1" source="toRRWf59Ljl-5eJd4mF4-31" target="toRRWf59Ljl-5eJd4mF4-6">
           <mxGeometry relative="1" as="geometry">
