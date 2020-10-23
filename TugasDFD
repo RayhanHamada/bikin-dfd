@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T17:26:25.598Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="GBCVTbf58D678qBzAQ5i" version="13.8.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-23T17:28:12.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="FWEmuw85LuBS6wXf4MEU" version="13.8.1" type="github" pages="6">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -988,7 +988,7 @@
         <mxCell id="SiRWkDYfmj6jUwq67I-f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qVe69K4OfmleL-LPv636-1" source="7ijQj0PuqHPrkRIo1c4s-6" target="SiRWkDYfmj6jUwq67I-f-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SiRWkDYfmj6jUwq67I-f-5" value="- Nominal Simpanan Pokok&lt;br&gt;- Data Anggota" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SiRWkDYfmj6jUwq67I-f-4">
+        <mxCell id="SiRWkDYfmj6jUwq67I-f-5" value="- Nominal Simpanan Pokok&lt;br&gt;- No. Anggota" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="SiRWkDYfmj6jUwq67I-f-4">
           <mxGeometry x="-0.174" y="3" relative="1" as="geometry">
             <mxPoint x="-40.71" y="3" as="offset" />
           </mxGeometry>
@@ -1014,8 +1014,16 @@
         <mxCell id="7ijQj0PuqHPrkRIo1c4s-6" value="Bendahara" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qVe69K4OfmleL-LPv636-1">
           <mxGeometry x="380" y="245" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="xsCtwa0zITSR-V0WLfU4-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qVe69K4OfmleL-LPv636-1" source="SiRWkDYfmj6jUwq67I-f-0" target="xsCtwa0zITSR-V0WLfU4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xsCtwa0zITSR-V0WLfU4-23" value="- Data Anggota untuk di cek" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xsCtwa0zITSR-V0WLfU4-22">
+          <mxGeometry x="0.3125" y="2" relative="1" as="geometry">
+            <mxPoint x="26.47" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SiRWkDYfmj6jUwq67I-f-0" value="Anggota Tabungan Bersama" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="qVe69K4OfmleL-LPv636-1">
-          <mxGeometry x="695" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="695" y="102.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SiRWkDYfmj6jUwq67I-f-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="qVe69K4OfmleL-LPv636-1" source="SiRWkDYfmj6jUwq67I-f-3" target="SiRWkDYfmj6jUwq67I-f-0">
           <mxGeometry relative="1" as="geometry" />
