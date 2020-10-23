@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T16:58:27.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="vcIAtL89jS18C9z57y4o" version="13.8.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2020-10-23T16:59:06.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Brave Chrome/83.0.4103.106 Safari/537.36" etag="iT34RLr8goks7PMpnHw9" version="13.8.1" type="github" pages="6">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -943,11 +943,11 @@
         </mxCell>
         <mxCell id="7ijQj0PuqHPrkRIo1c4s-2" value="Formulir Pendaftaran" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7ijQj0PuqHPrkRIo1c4s-1">
           <mxGeometry x="0.284" y="-1" relative="1" as="geometry">
-            <mxPoint x="-61" y="19" as="offset" />
+            <mxPoint x="-78.24" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qVe69K4OfmleL-LPv636-3" value="1.1&lt;br&gt;Pendaftaran&lt;br&gt;Anggota" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="qVe69K4OfmleL-LPv636-1">
-          <mxGeometry x="177" y="-77.5" width="95" height="95" as="geometry" />
+          <mxGeometry x="148" y="-77.5" width="95" height="95" as="geometry" />
         </mxCell>
         <mxCell id="7ijQj0PuqHPrkRIo1c4s-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qVe69K4OfmleL-LPv636-1" source="7ijQj0PuqHPrkRIo1c4s-0" target="7ijQj0PuqHPrkRIo1c4s-3">
           <mxGeometry relative="1" as="geometry" />
