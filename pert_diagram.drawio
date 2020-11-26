@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-26T08:18:01.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="nMmun3OAIGM97Cv_LZVQ" version="13.10.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-26T08:18:09.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="5aelgQDp87iSqep9pNHn" version="13.10.0" type="github" pages="2">
   <diagram id="w-n2yBOvHbMStAPGtrfh" name="Page-1">
     <mxGraphModel dx="805" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,31 +182,31 @@
           <mxGeometry x="120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-96" value="Merilis Perangkat Keras" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="960" y="120" width="180" height="110" as="geometry" />
+          <mxGeometry x="960" y="120" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-96">
-          <mxGeometry y="30" width="180" height="40" as="geometry" />
+          <mxGeometry y="30" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-98" value="9" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-97">
-          <mxGeometry width="60" height="40" as="geometry" />
+          <mxGeometry width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-99" value="&lt;span&gt;30 Apr&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-97">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
+          <mxGeometry x="60" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-100" value="10 Mei" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-97">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
+          <mxGeometry x="120" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-101" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-96">
-          <mxGeometry y="70" width="180" height="40" as="geometry" />
+          <mxGeometry y="75" width="180" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-102" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-101">
-          <mxGeometry width="60" height="40" as="geometry" />
+          <mxGeometry width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-103" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-101">
-          <mxGeometry x="60" width="60" height="40" as="geometry" />
+          <mxGeometry x="60" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-104" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;" vertex="1" parent="4v-OU17Cv-sKRTJld7IA-101">
-          <mxGeometry x="120" width="60" height="40" as="geometry" />
+          <mxGeometry x="120" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4v-OU17Cv-sKRTJld7IA-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4v-OU17Cv-sKRTJld7IA-67" target="mlTYYdsjPMdNegPLDmmk-32">
           <mxGeometry relative="1" as="geometry">
