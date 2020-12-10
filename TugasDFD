@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T03:03:43.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.40" etag="7JsnaR_JwGEXhqzhIYwp" version="13.11.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-10T03:13:24.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36 Edg/84.0.522.40" etag="pl5wHCRENCCS4r8x9mTN" version="13.11.0" type="github" pages="9">
   <diagram id="g9uUrV9ldfTjch08MMNj" name="Level_0">
     <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1326,7 +1326,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ElnRC7RenDacXh8sh9MJ" name="Page-9">
-    <mxGraphModel dx="2128" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2128" dy="580" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-0" />
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-1" parent="1CRGp3C5CzJ4OBSDkc7B-0" />
@@ -1352,7 +1352,7 @@
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1CRGp3C5CzJ4OBSDkc7B-1" source="1CRGp3C5CzJ4OBSDkc7B-16" target="1CRGp3C5CzJ4OBSDkc7B-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1CRGp3C5CzJ4OBSDkc7B-55" value="&lt;span style=&quot;font-size: 12px&quot;&gt;- Formulir Data Diri&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;- Surat Keterangan Kependudukan&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CRGp3C5CzJ4OBSDkc7B-17">
+        <mxCell id="1CRGp3C5CzJ4OBSDkc7B-55" value="&lt;span style=&quot;font-size: 12px&quot;&gt;- Formulir Data Diri&lt;/span&gt;&lt;br style=&quot;font-size: 12px&quot;&gt;&lt;span style=&quot;font-size: 12px&quot;&gt;- Surat Pernyataan RT/RW&lt;/span&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CRGp3C5CzJ4OBSDkc7B-17">
           <mxGeometry x="-0.2509" y="-4" relative="1" as="geometry">
             <mxPoint x="-56" as="offset" />
           </mxGeometry>
@@ -1376,8 +1376,8 @@
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-20" value="" style="endArrow=none;html=1;" edge="1" parent="1CRGp3C5CzJ4OBSDkc7B-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-130" y="300" as="sourcePoint" />
-            <mxPoint x="30" y="300" as="targetPoint" />
+            <mxPoint x="-130" y="290" as="sourcePoint" />
+            <mxPoint x="30" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-21" value="Data Penduduk" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1CRGp3C5CzJ4OBSDkc7B-1">
@@ -1441,19 +1441,19 @@
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-56" value="&lt;span style=&quot;font-size: 12px&quot;&gt;Surat Permohonan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CRGp3C5CzJ4OBSDkc7B-47">
           <mxGeometry x="0.2288" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="27.43" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1CRGp3C5CzJ4OBSDkc7B-1" source="1CRGp3C5CzJ4OBSDkc7B-44" target="1CRGp3C5CzJ4OBSDkc7B-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1CRGp3C5CzJ4OBSDkc7B-53" value="Surat Pernyataan" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CRGp3C5CzJ4OBSDkc7B-52">
+        <mxCell id="1CRGp3C5CzJ4OBSDkc7B-53" value="Surat Pernyataan RT/RW" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1CRGp3C5CzJ4OBSDkc7B-52">
           <mxGeometry x="-0.3631" y="-2" relative="1" as="geometry">
-            <mxPoint x="19" y="-2" as="offset" />
+            <mxPoint x="24" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-44" value="1&lt;br&gt;Permohonan Surat Pernyataan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1CRGp3C5CzJ4OBSDkc7B-1">
-          <mxGeometry x="-30" y="15" width="90" height="90" as="geometry" />
+          <mxGeometry x="-50" y="15" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="1CRGp3C5CzJ4OBSDkc7B-46" value="Surat Permohonan" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1CRGp3C5CzJ4OBSDkc7B-1">
           <mxGeometry x="60" y="10" width="120" height="20" as="geometry" />
